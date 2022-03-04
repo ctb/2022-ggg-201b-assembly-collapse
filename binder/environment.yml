@@ -1,0 +1,8 @@
+name: assembly-collapse
+channels:
+    - conda-forge
+    - bioconda
+    - defaults
+dependencies:
+    - matplotlib
+    - pandas
